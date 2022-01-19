@@ -13,3 +13,7 @@ npm install
 ```
 npm run dev 
 ```
+**Bulding the app**
+```
+npm run build 
+```
