@@ -1,4 +1,4 @@
-import Layout from "../components/layout"
+import Layout from "../components/Layout"
 import Head from 'next/head';
 import Shadow from "../components/boxShadow/Shadow";
 
