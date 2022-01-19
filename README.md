@@ -18,5 +18,5 @@ npm run dev
 npm run build 
 ```
 
-** For view **
+**For view**
 https://css-generator-with-nextjs.vercel.app/
