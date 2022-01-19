@@ -1,0 +1,27 @@
+footer{
+    width: 100%;
+    height: 105px;
+    background: #f7f7f7 ;
+    box-shadow: 0px -1px 0px 0px rgb(0 0 0 / 28%);
+    -webkit-box-shadow: 0px -1px 0px 0px rgb(0 0 0 / 28%);
+    -moz-box-shadow: 0px -1px 0px 0px rgba(0, 0, 0, 0.28);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .footer-content{
+
+        a,span{
+            font-size: 18px;
+            font-family: fenix;
+            text-decoration: none;
+            color: #d78614;
+        }
+
+        a{
+            color: #2c3e50;
+        }
+        
+    }
+}
