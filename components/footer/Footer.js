@@ -9,7 +9,7 @@ const Footer = () => {
         <footer>
             <div className="footer-content">
                 <span>Copyright &copy; {d.getFullYear()}
-                    <Link href="https://github.com/anilparlak">
+                    <Link href="http://anilparlak.com/">
                 
                         <a target="_blank"> Anıl Parlak</a>
                     </Link>

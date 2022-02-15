@@ -132,6 +132,10 @@ $color: #b3e5fc;
         &:hover {
           cursor: pointer;
         }
+
+        @media screen and(max-width:560px) {
+          right: calc(-100% + 80px);
+        }
       }
 
       .hamburgerMenu{
@@ -172,7 +176,7 @@ $color: #b3e5fc;
           }
       }
 
-      @media screen and(max-width:1024px) {
+      @media screen and(max-width:1200px) {
 
     
           display: block;
